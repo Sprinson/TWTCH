@@ -1,0 +1,32 @@
+img {
+	height: 100px;
+	width: 100px;
+}
+
+li a {
+	list-style: none;
+	padding: 20px;
+	margin-top: 20px;
+	overflow: hidden;
+	border-radius: 10px 10px 10px 10px;
+	border: #EEEEEE solid 2px;
+	background-color: transparent;
+	color: #737373;
+}
+
+li {
+	list-style: none;
+	height: fixed;
+}
+
+a {
+	display: block;
+	
+}
+a:hover {
+	text-decoration: none;
+}
+
+#results{
+	margin-right: 10px;
+}
